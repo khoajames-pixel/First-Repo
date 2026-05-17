@@ -1,8 +1,32 @@
 # First-Repo
-My Porfolio
+
+My Portfolio
+
+## Development Environment Setup
+
+### Tools Installed
+
+- Cursor IDE
+- Claude Code extension
+- Codex extension
+
+### Steps Completed
+
+1. Installed Cursor IDE
+2. Added Claude Code extension and logged in
+3. Added Codex extension and logged in
+4. Created a public GitHub repository
+5. Opened the repository in Cursor
+6. Created this README.md file
+
+### Issues & Solutions
+
+- **Issue:** Extension login required multiple attempts  
+  **Solution:** Restarted Cursor and retried login successfully
+
+- **Issue:** Git push failed due to missing remote  
+  **Solution:** Added remote with `git remote add origin <repo-url>`
 
 ## Repository Link
-[My GitHub Repository](https://github.com/khoajames-pixel/First-Repo)
 
-## Setup Notes File
-[Open My .repo](https://github.com/khoajames-pixel/First-Repo/blob/main/My%20.repo)
+[My GitHub Repository](https://github.com/khoajames-pixel/First-Repo)
